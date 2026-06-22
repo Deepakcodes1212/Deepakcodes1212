@@ -30,10 +30,9 @@ I enjoy building web applications and solving DSA problems while constantly impr
 ---
 
 ## 📫 Connect with me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (add your link here)
+
 
 ---
 
 ⭐ Always learning, always building
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+

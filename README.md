@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Deepak
 
-<!--
-**Deepakcodes1212/Deepakcodes1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Software Engineer | Open to Internship Opportunities
 
-Here are some ideas to get you started:
+I enjoy building web applications and solving DSA problems while constantly improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- HTML, CSS, JavaScript
+- React.js
+- Node.js, Express.js
+- MongoDB
+- C++ (DSA)
+
+---
+
+## 📈 Currently Working On
+- Improving DSA skills in C++
+- Building full-stack projects
+- Learning advanced React concepts
+
+---
+
+## 🎯 Goals
+- Get a Software Engineering Internship
+- Build strong full-stack projects
+- Contribute to open source
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (add your link here)
+
+---
+
+⭐ Always learning, always building
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)

@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Deepak
 
-## 💻 Aspiring Software Engineer | Open to Internship Opportunities
+## 💻 Becoming Software Engineer | Open to Internship Opportunities
 
 I enjoy building web applications and solving DSA problems while constantly improving my skills.
 
